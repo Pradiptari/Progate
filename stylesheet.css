@@ -124,7 +124,7 @@ header {
   font-size: 25px;
   padding: 21px 0;
   /* Gantikan property display ke none */
-  display:disable;
+  display:none;
 }
 
 
@@ -206,6 +206,6 @@ footer {
   padding-top: 30px;
   padding-bottom: 20px;
 }
-.form-wrapper {
-  padding-top: 30px;
+.form-wrapper h2{
+  margin-top: 50px;
 }
